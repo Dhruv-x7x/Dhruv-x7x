@@ -13,11 +13,11 @@
 <h3 align="center">I like various things</h3>
 
 <p align="left">
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on <strong>myself</strong> <br/>
+  
+- 💬 Ask me about **Chess, Music, Books, Manga and the history of human evolution** <br/>
 
-- 💬 Ask me about **Chess, Music, Books, Manga and the history of human evolution**
-
-- 📫 How to reach me **dhruv7meena@gmail.com**
+- 📫 How to reach me **dhruv7meena@gmail.com** <br/>
 </p>
 
 <br>
